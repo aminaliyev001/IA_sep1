@@ -1,0 +1,34 @@
+Project Title: Weight Loss App
+
+Description:
+The Weight Loss App is a Python-based application designed to help users manage their weight 
+loss journey by providing a variety of features such as tracking daily calorie intake, 
+setting weight loss goals, recording exercises, and offering meal and exercise plans. 
+The app uses the Tkinter library for the graphical user interface and incorporates SQLite for data storage.
+
+Installation Instructions:
+1. Make sure you have Python 3.x installed on your system.
+2. Install the required libraries using the following commands:
+   - `pip install sqllite3`
+   - `pip install tkcalendar`
+   - `pip install pillow`
+
+User Login Credentials:
+- Email: teymuraliyev@gmail.com
+- Password: 1234
+
+Usage Instructions:
+1. Run the `main.py` file to start the Weight Loss App.
+2. On the login screen, use the provided email and password to log in.
+3. Once logged in, the user can access various features:
+   - Dashboard: View an overview of progress and quick links to different sections.
+   - Record Meals: Record daily meals and track calorie intake.
+   - Record Exercises: Log daily exercises and calculate calories burned.
+   - Edit Profile: Update personal information, weight, and goals.
+   - Suggestion Page: Get meal and exercise suggestions tailored to your goals.
+   - Daily Plan: Access a daily meal and exercise plan for weight loss.
+
+Notes:
+- The app uses SQLite to store user data, including login credentials, weight records, and more.
+- The graphical user interface is built using Tkinter for a user-friendly experience.
+- The app provides meal and exercise suggestions
